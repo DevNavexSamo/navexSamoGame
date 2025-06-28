@@ -1,1 +1,3 @@
 # navexSamoGame
+
+ello -pamuk
